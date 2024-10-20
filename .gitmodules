@@ -1,3 +1,6 @@
 [submodule "pages/franco-maquisaca"]
 	path = pages/franco-maquisaca
 	url = https://github.com/MarbustTechnologyCompany/franco-maquisaca-divi.git
+[submodule "pages/sistema-colmena"]
+	path = pages/sistema-colmena
+	url = https://github.com/MarbustTechnologyCompany/SistemaColmena-divi.git
